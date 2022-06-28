@@ -1,7 +1,8 @@
-# test-script-unittest
+Author: Andrei C. Cojocaru
+websitee: webautomation.ro && ideisioferte.ro
 
-# My first test with unittest in python.
-
-Libraries: 
-unittest - preinstalled;
-selenium - need to install in venv;
+Libraries:
+ 
+requests
+bs4 
+rake_nltk
