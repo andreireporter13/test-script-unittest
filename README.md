@@ -1,8 +1,10 @@
+# keyword-extract-seo-script
+
 Author: Andrei C. Cojocaru
-websitee: webautomation.ro && ideisioferte.ro
+Site: webautomation.ro && ideisioferte.ro
 
 Libraries:
- 
+
 requests
-bs4 
+bs4
 rake_nltk
